@@ -11,10 +11,10 @@ A simple Python script to run commands in all subdirectories.
 EX.
 ```bash
 gity --command "git pull"
-
+```
 ## Usage
 
 1. Install dependencies:
    ```bash
    pip install colorama
-
+```
