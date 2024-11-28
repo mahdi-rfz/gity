@@ -17,4 +17,3 @@ gity --command "git pull"
 1. Install dependencies:
    ```bash
    pip install colorama
-```
